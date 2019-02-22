@@ -1,0 +1,96 @@
+body {
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+#quiz {
+    background-color: black;
+    color: white;
+    padding:20px; 
+	margin: 20px;
+}
+
+#begin_quiz {
+    background-color: black;
+    color: white;
+    padding: 20px; 
+	margin: 20px;
+}
+
+#quiz {
+    display: none;
+    background-color: black;
+    color: white;
+    padding: 20px; 
+	margin: 20px;
+}
+
+#header {
+    text-align: center;
+    border-bottom: 1px dotted #999; 
+}
+
+#b {
+    font-weight: bold;
+}
+
+/* BUTTONS */
+
+#begin {
+    border: 2px solid white;
+    background-color: grey;
+    color: white;
+}
+
+#submit {
+    border: 2px solid white;
+    background-color: grey;
+    color: white;
+}
+
+/* ALL HINTS */
+
+#hint_1 {
+    color: lightblue;
+}
+
+#hint_1_text {
+    display: none;
+    color: lightblue;
+}
+
+#hint_2 {
+    color: lightblue;
+}
+
+#hint_2_text {
+    display: none;
+    color: lightblue;
+}
+
+#hint_3 {
+    color: lightblue;
+}
+
+#hint_3_text {
+    display: none;
+    color: lightblue;
+}
+
+#hint_4 {
+    color: lightblue;
+}
+
+#hint_4_text {
+    display: none;
+    color: lightblue;
+}
+
+#hint_5 {
+    color: lightblue;
+}
+
+#hint_5_text {
+    display: none;
+    color: lightblue;
+}
